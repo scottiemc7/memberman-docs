@@ -14,4 +14,8 @@
         <description>Created after removal of "Overview" from Help Instance</description>
         <accepts>Overview.html</accepts>
     </rule>
+    <rule id="4b1e8225">
+        <description>Created after removal of "Library" from Help Instance</description>
+        <accepts>Library.html</accepts>
+    </rule>
 </rules>
