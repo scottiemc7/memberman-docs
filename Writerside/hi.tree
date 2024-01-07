@@ -6,5 +6,13 @@
                  name="Help Instance"
                  start-page="Default-topic.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Accounts.topic">
+        <toc-element topic="Creating-An-Account.topic"/>
+        <toc-element topic="Resetting-Your-Password.topic"/>
+    </toc-element>
+    <toc-element topic="Subscriptions.topic">
+        <toc-element topic="Signing-Credits.topic"/>
+        <toc-element topic="Basic-Tier.topic"/>
+    </toc-element>
+    <toc-element topic="Library.topic"/>
 </instance-profile>

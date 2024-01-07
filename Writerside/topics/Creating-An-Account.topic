@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Creating An Account" id="Creating-An-Account">
+
+    <p>
+        To sign up for account, visit the
+        <a href="%root-url%/Account/CreateAccount">
+            account create
+        </a> page or click the "Create Account" link on the
+        <a href="%root-url%/Account/Login">
+            login
+        </a> page.
+    </p>
+    <p>
+        Once you sign up, you'll be sent an email to verify your address.
+        Click on the link in the email to log in.
+    </p>
+</topic>

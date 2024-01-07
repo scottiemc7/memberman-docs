@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Subscriptions" id="Subscriptions">
+
+    <p>
+        When you first sign up for an account, we give you some
+        <a href="Signing-Credits.topic" >
+            signing credits
+        </a> in order to test out the application without needing
+        to supply a payment method. These credits don't expire. If you'd like
+        more credits or want to explore features beyond the
+        <a href="Basic-Tier.topic">basic tier</a>, you can sign up for a subscription.
+    </p>
+</topic>
